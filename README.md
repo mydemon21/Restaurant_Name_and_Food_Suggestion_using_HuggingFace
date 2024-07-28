@@ -19,8 +19,8 @@ This project uses the Hugging Face Transformers library to generate creative res
 1. **Clone the repository**:
 
     ```bash
-    git clone <your-repository-url>
-    cd <your-repository-folder>
+    git clone https://github.com/mydemon21/Restaurant_Name_and_Food_Suggestion_using_HuggingFace.git
+    cd Restaurant_Name_and_Food_Suggestion_using_HuggingFace
     ```
 
 2. **Install dependencies**:
