@@ -77,4 +77,5 @@ Special thanks to the creators of Streamlit and Hugging Face Transformers for pr
 
 ## Author
 
-Sajal Patel
+Sajal Patel [@mydemon21](https://github.com/mydemon21)
+
