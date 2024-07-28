@@ -74,3 +74,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Acknowledgments
 
 Special thanks to the creators of Streamlit and Hugging Face Transformers for providing powerful tools for building language-based applications.
+
+## Author
+
+Sajal Patel
